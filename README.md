@@ -1,14 +1,38 @@
-- Live Link - https://lookbazaar.netlify.app/
 
-# React + Vite
+# 🔥 LookBazaar – E-Commerce Frontend
+A clean and functional e-commerce frontend built with React, Redux, and Tailwind CSS. Features include product listing, category-based filtering, search, and cart functionality.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Run Locally 💻
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the project
 
-## Expanding the ESLint configuration
+```bash
+  git clone https://github.com/bharat40/E-Commerce-Website-Frontend
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Go to the project directory
+
+```bash
+  cd E-Commerce-Website-Frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+## Tech Stack 👨‍💻
+
+**Client:** React, Redux, TailwindCSS
+
+## Live Link 🔗
+[Click Me](https://lookbazaar.netlify.app/)
