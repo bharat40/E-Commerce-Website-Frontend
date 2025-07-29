@@ -1,3 +1,4 @@
+## Live Link - https://lookbazaar.netlify.app/
 
 # 🔥 LookBazaar – E-Commerce Frontend
 A clean and functional e-commerce frontend built with React, Redux, and Tailwind CSS. Features include product listing, category-based filtering, search, and cart functionality.
@@ -33,6 +34,3 @@ Start the server
 ## Tech Stack 👨‍💻
 
 **Client:** React, Redux, TailwindCSS
-
-## Live Link 🔗
-[Click Me](https://lookbazaar.netlify.app/)
